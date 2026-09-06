@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.9.5)  6 SEP 2026 13:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.9.5)  6 SEP 2026 18:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1821,13 +1821,32 @@ File: assets/images/minggu-02/wireframe-portofolio.png Graphic file (type png)
 <use assets/images/minggu-02/wireframe-portofolio.png>
 Package pdftex.def Info: assets/images/minggu-02/wireframe-portofolio.png  used on input line 302.
 (pdftex.def)             Requested size: 411.14528pt x 231.16476pt.
- [13 <./assets/images/minggu-02/wireframe-portofolio.png>]
-<assets/images/minggu-02/webaim-contrast-checker.png, id=1480, 1926.19624pt x 1083.04625pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+[]|\OT1/ntxtlf/m/n/10.95 Saat melakukan pen-car-ian,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+\OT1/ntxtlf/m/n/10.95 bahwa pen-car-i-an-nya sedang
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 325--326
+[]|\OT1/ntxtlf/m/n/10.95 Google mem-bantu mence-gah
+ []
+
+
+Underfull \hbox (badness 5637) in paragraph at lines 325--326
+\OT1/ntxtlf/m/n/10.95 saran pen-car-ian ketika kita
+ []
+
+<assets/images/minggu-02/webaim-contrast-checker.png, id=1466, 1926.19624pt x 1083.04625pt>
 File: assets/images/minggu-02/webaim-contrast-checker.png Graphic file (type png)
 <use assets/images/minggu-02/webaim-contrast-checker.png>
-Package pdftex.def Info: assets/images/minggu-02/webaim-contrast-checker.png  used on input line 340.
+Package pdftex.def Info: assets/images/minggu-02/webaim-contrast-checker.png  used on input line 341.
 (pdftex.def)             Requested size: 411.14528pt x 231.16476pt.
- [14 <./assets/images/minggu-02/webaim-contrast-checker.png>]) (chapters/minggu-03.tex [15]
+[13 <./assets/images/minggu-02/wireframe-portofolio.png>]) (chapters/minggu-03.tex [14] [15 <./assets/images/minggu-02/webaim-contrast-checker.png>]
 Bab 3.
 
 Underfull \hbox (badness 5578) in paragraph at lines 78--79
@@ -2337,7 +2356,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  107i,12n,136p,764b,2396s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmb.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmbi.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (195 pages, 1837205 bytes).
+Output written on main.pdf (195 pages, 1837559 bytes).
 PDF statistics:
  6663 PDF objects out of 7423 (max. 8388607)
  4084 named destinations out of 4296 (max. 500000)
