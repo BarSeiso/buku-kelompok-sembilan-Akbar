@@ -17,7 +17,7 @@
 \contentsline {section}{\numberline {2.1}Pengenalan Figma}{8}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Akses Figma}{8}{subsection.2.1.1}%
 \contentsline {subsection}{\numberline {2.1.2}Membuat File \& Frame Pertama}{8}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Alat Dasar Figma}{9}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.3}Alat Dasar Figma}{8}{subsection.2.1.3}%
 \contentsline {subsection}{\numberline {2.1.4}Panel Layers \& Properties}{9}{subsection.2.1.4}%
 \contentsline {section}{\numberline {2.2}Membuat Wireframe Halaman Web}{10}{section.2.2}%
 \contentsline {subsection}{\numberline {2.2.1}Langkah 1: Buat Frame untuk \emph {Mobile}}{10}{subsection.2.2.1}%
@@ -33,256 +33,256 @@
 \contentsline {section}{\numberline {2.4}Latihan Mandiri}{13}{section.2.4}%
 \contentsline {section}{\numberline {2.5}Troubleshooting}{14}{section.2.5}%
 \contentsline {section}{\numberline {2.6}Rangkuman}{14}{section.2.6}%
-\contentsline {chapter}{\numberline {3}HTML Dasar: Struktur \& Semantic Tag}{15}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Struktur Dokumen HTML}{15}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Proyek Baru}{15}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}Struktur Dasar}{15}{subsection.3.1.2}%
-\contentsline {section}{\numberline {3.2}Elemen-Elemen Dasar HTML}{16}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Semantic HTML}{18}{section.3.3}%
-\contentsline {subsection}{\numberline {3.3.1}Rekonstruksi dengan Semantic Tag}{18}{subsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.3.2}Perbandingan dengan Non-Semantic}{20}{subsection.3.3.2}%
-\contentsline {section}{\numberline {3.4}Elemen Pendukung Penting}{21}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Anchor (Tautan) --- Detail Atribut}{21}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Image --- Detail Atribut}{21}{subsection.3.4.2}%
-\contentsline {subsection}{\numberline {3.4.3}Tabel Dasar (Preview)}{22}{subsection.3.4.3}%
-\contentsline {section}{\numberline {3.5}Menghubungkan HTML ke CSS (Dasar)}{23}{section.3.5}%
-\contentsline {subsection}{\numberline {3.5.1}Buat File CSS}{23}{subsection.3.5.1}%
-\contentsline {subsection}{\numberline {3.5.2}Hubungkan ke HTML}{24}{subsection.3.5.2}%
-\contentsline {section}{\numberline {3.6}Validasi HTML}{24}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Latihan Mandiri}{25}{section.3.7}%
-\contentsline {section}{\numberline {3.8}Troubleshooting}{26}{section.3.8}%
-\contentsline {section}{\numberline {3.9}Rangkuman}{26}{section.3.9}%
-\contentsline {chapter}{\numberline {4}HTML Lanjutan: Form, Tabel \& Multimedia}{27}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Form HTML}{27}{section.4.1}%
-\contentsline {subsection}{\numberline {4.1.1}Live Coding: Form Pendaftaran Akun}{27}{subsection.4.1.1}%
-\contentsline {subsection}{\numberline {4.1.2}Jenis-Jenis Input}{31}{subsection.4.1.2}%
-\contentsline {subsection}{\numberline {4.1.3}Pentingnya Label}{31}{subsection.4.1.3}%
-\contentsline {subsection}{\numberline {4.1.4}Atribut Validasi Dasar}{32}{subsection.4.1.4}%
-\contentsline {subsection}{\numberline {4.1.5}Verifikasi Form}{32}{subsection.4.1.5}%
-\contentsline {section}{\numberline {4.2}Tabel HTML}{33}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Live Coding: Tabel Sederhana}{33}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Struktur Tabel}{36}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Atribut Penting untuk Aksesibilitas}{36}{subsection.4.2.3}%
-\contentsline {section}{\numberline {4.3}Multimedia: Gambar, Video, Audio}{37}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Gambar --- Review \& Lanjutan}{37}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Video (HTML5)}{37}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Audio (HTML5)}{38}{subsection.4.3.3}%
-\contentsline {subsection}{\numberline {4.3.4}Iframe --- \emph {Embed} Konten Eksternal}{38}{subsection.4.3.4}%
-\contentsline {section}{\numberline {4.4}Praktik: Menggabungkan Semua Elemen}{39}{section.4.4}%
-\contentsline {section}{\numberline {4.5}Validasi \& Push ke GitHub}{44}{section.4.5}%
-\contentsline {subsection}{\numberline {4.5.1}Validasi HTML}{44}{subsection.4.5.1}%
-\contentsline {subsection}{\numberline {4.5.2}Push ke GitHub}{44}{subsection.4.5.2}%
-\contentsline {section}{\numberline {4.6}Latihan Mandiri}{45}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Troubleshooting}{46}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Rangkuman}{46}{section.4.8}%
-\contentsline {chapter}{\numberline {5}CSS Dasar: Selector, Box Model, Typography}{47}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Pengantar CSS}{47}{section.5.1}%
-\contentsline {subsection}{\numberline {5.1.1}Box Model}{47}{subsection.5.1.1}%
-\contentsline {section}{\numberline {5.2}Praktikum 1 --- Menyiapkan Proyek}{48}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Praktikum 2 --- Cara Menulis CSS}{48}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Inline CSS (langsung di tag)}{49}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Internal CSS (di dalam tag \texttt {<style>})}{49}{subsection.5.3.2}%
-\contentsline {subsection}{\numberline {5.3.3}Eksternal CSS (file terpisah)}{49}{subsection.5.3.3}%
-\contentsline {section}{\numberline {5.4}Praktikum 3 --- Selector}{50}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Praktikum 4 --- Box Model}{51}{section.5.5}%
-\contentsline {section}{\numberline {5.6}Praktikum 5 --- Typography}{53}{section.5.6}%
-\contentsline {section}{\numberline {5.7}Latihan Mandiri}{55}{section.5.7}%
-\contentsline {section}{\numberline {5.8}Hasil yang Diharapkan}{55}{section.5.8}%
-\contentsline {section}{\numberline {5.9}Troubleshooting}{56}{section.5.9}%
-\contentsline {section}{\numberline {5.10}Rangkuman}{56}{section.5.10}%
-\contentsline {chapter}{\numberline {6}CSS Layout: Flexbox}{57}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Pengantar Flexbox}{57}{section.6.1}%
-\contentsline {subsection}{\numberline {6.1.1}Konsep Utama}{57}{subsection.6.1.1}%
-\contentsline {subsection}{\numberline {6.1.2}Properti Penting}{57}{subsection.6.1.2}%
-\contentsline {section}{\numberline {6.2}Praktikum 1 --- Menyiapkan Proyek}{57}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Praktikum 2 --- Flex Direction}{59}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Praktikum 3 --- Justify Content \& Align Items}{60}{section.6.4}%
-\contentsline {section}{\numberline {6.5}Praktikum 4 --- Flex Wrap \& Gap}{61}{section.6.5}%
-\contentsline {section}{\numberline {6.6}Praktikum 5 --- Properti Flex pada Item}{62}{section.6.6}%
-\contentsline {section}{\numberline {6.7}Praktikum 6 --- Membangun Navbar dengan Flexbox}{63}{section.6.7}%
-\contentsline {section}{\numberline {6.8}Praktikum 7 --- Galeri Foto dengan Flexbox}{65}{section.6.8}%
-\contentsline {section}{\numberline {6.9}Latihan Mandiri}{66}{section.6.9}%
-\contentsline {section}{\numberline {6.10}Hasil yang Diharapkan}{67}{section.6.10}%
-\contentsline {section}{\numberline {6.11}Troubleshooting}{68}{section.6.11}%
-\contentsline {section}{\numberline {6.12}Rangkuman}{68}{section.6.12}%
-\contentsline {chapter}{\numberline {7}CSS Layout: Grid \& Responsive Design}{69}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Pengantar CSS Grid}{69}{section.7.1}%
-\contentsline {subsection}{\numberline {7.1.1}Media Query}{69}{subsection.7.1.1}%
-\contentsline {subsection}{\numberline {7.1.2}Breakpoint Umum}{70}{subsection.7.1.2}%
-\contentsline {section}{\numberline {7.2}Praktikum 1 --- Menyiapkan Proyek}{70}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Praktikum 2 --- Mengatur Kolom dan Baris}{71}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Praktikum 3 --- Menempatkan Item di Grid}{72}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Praktikum 4 --- Pengenalan Media Query}{74}{section.7.5}%
-\contentsline {section}{\numberline {7.6}Praktikum 5 --- Mobile-First}{76}{section.7.6}%
-\contentsline {section}{\numberline {7.7}Praktikum 6 --- Membuat Layout Responsif Lengkap}{77}{section.7.7}%
-\contentsline {section}{\numberline {7.8}Latihan Mandiri}{80}{section.7.8}%
-\contentsline {section}{\numberline {7.9}Hasil yang Diharapkan}{81}{section.7.9}%
-\contentsline {section}{\numberline {7.10}Troubleshooting}{82}{section.7.10}%
-\contentsline {section}{\numberline {7.11}Rangkuman}{82}{section.7.11}%
-\contentsline {chapter}{\numberline {8}Git \& GitHub Dasar: Init, Commit, Push, Pull}{84}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Apa itu Git?}{84}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Apa itu GitHub?}{84}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Alur Kerja Dasar}{84}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Praktikum 1 --- Memeriksa Instalasi Git}{85}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Praktikum 2 --- Konfigurasi Git}{85}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Praktikum 3 --- Inisialisasi Repository}{86}{section.8.6}%
-\contentsline {section}{\numberline {8.7}Praktikum 4 --- Membuat File \texttt {.gitignore}}{87}{section.8.7}%
-\contentsline {section}{\numberline {8.8}Praktikum 5 --- Commit Pertama}{87}{section.8.8}%
-\contentsline {section}{\numberline {8.9}Praktikum 6 --- Membuat Repository di GitHub}{88}{section.8.9}%
-\contentsline {section}{\numberline {8.10}Praktikum 7 --- Menghubungkan dan Push}{89}{section.8.10}%
-\contentsline {section}{\numberline {8.11}Praktikum 8 --- Mengubah File dan Commit Lagi}{90}{section.8.11}%
-\contentsline {section}{\numberline {8.12}Praktikum 9 --- Pull (Mengambil Perubahan)}{90}{section.8.12}%
-\contentsline {section}{\numberline {8.13}Latihan Mandiri}{91}{section.8.13}%
-\contentsline {section}{\numberline {8.14}Hasil yang Diharapkan}{91}{section.8.14}%
-\contentsline {section}{\numberline {8.15}Troubleshooting}{92}{section.8.15}%
-\contentsline {section}{\numberline {8.16}Rangkuman}{92}{section.8.16}%
-\contentsline {chapter}{\numberline {9}GitHub Kolaborasi: Branch, Pull Request, GitHub Pages}{93}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Apa itu Branch?}{93}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Apa itu Pull Request (PR)?}{93}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Apa itu GitHub Pages?}{93}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Praktikum 1 --- Membuat Branch}{94}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Praktikum 2 --- Bekerja di Branch Baru}{94}{section.9.5}%
-\contentsline {section}{\numberline {9.6}Praktikum 3 --- Menggabungkan Branch (Merge)}{95}{section.9.6}%
-\contentsline {section}{\numberline {9.7}Praktikum 4 --- Push Branch ke GitHub}{96}{section.9.7}%
-\contentsline {section}{\numberline {9.8}Praktikum 5 --- Membuat Pull Request (PR)}{97}{section.9.8}%
-\contentsline {section}{\numberline {9.9}Praktikum 6 --- Merge Pull Request}{98}{section.9.9}%
-\contentsline {section}{\numberline {9.10}Praktikum 7 --- Menyiapkan GitHub Pages}{99}{section.9.10}%
-\contentsline {section}{\numberline {9.11}Praktikum 8 --- Memperbarui Website di GitHub Pages}{100}{section.9.11}%
-\contentsline {section}{\numberline {9.12}Latihan Mandiri}{101}{section.9.12}%
-\contentsline {section}{\numberline {9.13}Hasil yang Diharapkan}{101}{section.9.13}%
-\contentsline {section}{\numberline {9.14}Troubleshooting}{102}{section.9.14}%
-\contentsline {section}{\numberline {9.15}Rangkuman}{102}{section.9.15}%
-\contentsline {chapter}{\numberline {10}JavaScript Dasar: Variabel, Fungsi, Kondisi \& DOM Selection}{103}{chapter.10}%
-\contentsline {section}{\numberline {10.1}Persiapan}{103}{section.10.1}%
-\contentsline {section}{\numberline {10.2}Menulis Skrip Pertama}{103}{section.10.2}%
-\contentsline {subsection}{\numberline {10.2.1}Yang Terjadi}{104}{subsection.10.2.1}%
-\contentsline {section}{\numberline {10.3}Variabel \& Tipe Data}{104}{section.10.3}%
-\contentsline {subsection}{\numberline {10.3.1}Deklarasi Variabel}{104}{subsection.10.3.1}%
-\contentsline {subsection}{\numberline {10.3.2}Tipe Data Dasar}{105}{subsection.10.3.2}%
-\contentsline {section}{\numberline {10.4}Fungsi}{106}{section.10.4}%
-\contentsline {section}{\numberline {10.5}Kondisi (If/Else)}{107}{section.10.5}%
-\contentsline {section}{\numberline {10.6}DOM Selection}{108}{section.10.6}%
-\contentsline {subsection}{\numberline {10.6.1}Ringkasan Metode DOM Selection}{110}{subsection.10.6.1}%
-\contentsline {section}{\numberline {10.7}Latihan}{111}{section.10.7}%
-\contentsline {section}{\numberline {10.8}Troubleshooting}{113}{section.10.8}%
-\contentsline {chapter}{\numberline {11}JavaScript: Event Handling \& Manipulasi DOM}{114}{chapter.11}%
-\contentsline {section}{\numberline {11.1}Event Handling: onclick \& addEventListener}{114}{section.11.1}%
-\contentsline {subsection}{\numberline {11.1.1}Mengapa addEventListener Lebih Baik?}{116}{subsection.11.1.1}%
-\contentsline {subsection}{\numberline {11.1.2}Event Populer}{116}{subsection.11.1.2}%
-\contentsline {section}{\numberline {11.2}Event pada Form \& Input}{116}{section.11.2}%
-\contentsline {section}{\numberline {11.3}Manipulasi DOM: Mengubah Konten}{118}{section.11.3}%
-\contentsline {section}{\numberline {11.4}Manipulasi DOM: Membuat \& Menghapus Elemen}{120}{section.11.4}%
-\contentsline {subsection}{\numberline {11.4.1}Cara Membuat \& Menambah Elemen}{122}{subsection.11.4.1}%
-\contentsline {section}{\numberline {11.5}Mini Proyek: Toggle Menu Mobile}{123}{section.11.5}%
-\contentsline {section}{\numberline {11.6}Latihan}{125}{section.11.6}%
-\contentsline {section}{\numberline {11.7}Troubleshooting}{127}{section.11.7}%
-\contentsline {chapter}{\numberline {12}Pengenalan Tailwind CSS}{128}{chapter.12}%
-\contentsline {section}{\numberline {12.1}Konsep: Apa Itu Tailwind CSS?}{128}{section.12.1}%
-\contentsline {subsection}{\numberline {12.1.1}CSS Tradisional vs Tailwind CSS}{128}{subsection.12.1.1}%
-\contentsline {subsection}{\numberline {12.1.2}Mengapa Tailwind?}{129}{subsection.12.1.2}%
-\contentsline {section}{\numberline {12.2}Setup Tailwind di Proyek}{129}{section.12.2}%
-\contentsline {section}{\numberline {12.3}Eksplorasi Utility Class Dasar}{130}{section.12.3}%
-\contentsline {subsection}{\numberline {12.3.1}Layout \& Spacing}{130}{subsection.12.3.1}%
-\contentsline {subsection}{\numberline {12.3.2}Tipografi}{130}{subsection.12.3.2}%
-\contentsline {subsection}{\numberline {12.3.3}Warna \& Background}{131}{subsection.12.3.3}%
-\contentsline {subsection}{\numberline {12.3.4}Border \& Rounded}{131}{subsection.12.3.4}%
-\contentsline {subsection}{\numberline {12.3.5}Responsive (Mobile-First)}{131}{subsection.12.3.5}%
-\contentsline {subsection}{\numberline {12.3.6}Coba Sendiri: Playground}{132}{subsection.12.3.6}%
-\contentsline {section}{\numberline {12.4}Konversi: CSS Manual ke Tailwind}{133}{section.12.4}%
-\contentsline {subsection}{\numberline {12.4.1}Pemetaan CSS ke Tailwind}{136}{subsection.12.4.1}%
-\contentsline {section}{\numberline {12.5}Layout dengan Tailwind: Flexbox \& Grid}{136}{section.12.5}%
-\contentsline {subsection}{\numberline {12.5.1}Flexbox dengan Tailwind}{136}{subsection.12.5.1}%
-\contentsline {subsection}{\numberline {12.5.2}Grid dengan Tailwind}{137}{subsection.12.5.2}%
-\contentsline {section}{\numberline {12.6}Latihan}{138}{section.12.6}%
-\contentsline {section}{\numberline {12.7}Troubleshooting}{140}{section.12.7}%
-\contentsline {chapter}{\numberline {13}Pengenalan React: Komponen, JSX \& Props}{141}{chapter.13}%
-\contentsline {section}{\numberline {13.1}Mengapa React?}{141}{section.13.1}%
-\contentsline {subsection}{\numberline {13.1.1}Perbandingan: Tanpa React vs Dengan React}{141}{subsection.13.1.1}%
-\contentsline {subsection}{\numberline {13.1.2}Mengapa React Populer?}{142}{subsection.13.1.2}%
-\contentsline {section}{\numberline {13.2}Membaca Kode React (Tanpa Menjalankan)}{142}{section.13.2}%
-\contentsline {subsection}{\numberline {13.2.1}Kode 1 --- Komponen Paling Sederhana}{142}{subsection.13.2.1}%
-\contentsline {subsection}{\numberline {13.2.2}Kode 2 --- Komponen dengan Props}{143}{subsection.13.2.2}%
-\contentsline {subsection}{\numberline {13.2.3}Kode 3 --- Komponen dengan Daftar (Map)}{144}{subsection.13.2.3}%
-\contentsline {subsection}{\numberline {13.2.4}Kode 4 --- Komponen Bersarang (Nested)}{144}{subsection.13.2.4}%
-\contentsline {section}{\numberline {13.3}JSX: HTML yang ``Bisa Dikode''}{145}{section.13.3}%
-\contentsline {subsection}{\numberline {13.3.1}Perbedaan JSX vs HTML}{145}{subsection.13.3.1}%
-\contentsline {subsection}{\numberline {13.3.2}JSX Adalah Ekspresi JavaScript}{145}{subsection.13.3.2}%
-\contentsline {section}{\numberline {13.4}Komponen: Blok Bangunan UI}{146}{section.13.4}%
-\contentsline {section}{\numberline {13.5}Props: Mengirim Data ke Komponen}{147}{section.13.5}%
-\contentsline {subsection}{\numberline {13.5.1}Analogi Fungsi JavaScript}{147}{subsection.13.5.1}%
-\contentsline {subsection}{\numberline {13.5.2}Props Bisa Berisi Apa Saja}{147}{subsection.13.5.2}%
-\contentsline {subsection}{\numberline {13.5.3}Aturan Penting Props}{148}{subsection.13.5.3}%
-\contentsline {section}{\numberline {13.6}Demo Lengkap: Membaca \& Memahami Kode React}{149}{section.13.6}%
-\contentsline {section}{\numberline {13.7}Latihan}{152}{section.13.7}%
-\contentsline {section}{\numberline {13.8}Troubleshooting \& Catatan}{154}{section.13.8}%
-\contentsline {subsection}{\numberline {13.8.1}FAQ Umum tentang React}{154}{subsection.13.8.1}%
-\contentsline {subsection}{\numberline {13.8.2}Kosa Kata React}{155}{subsection.13.8.2}%
-\contentsline {subsection}{\numberline {13.8.3}Ringkasan Perjalanan Minggu 10--13}{155}{subsection.13.8.3}%
-\contentsline {chapter}{\numberline {14}Workshop Proyek Akhir --- Riset UI/UX \& Perencanaan Desain}{156}{chapter.14}%
-\contentsline {section}{\numberline {14.1}Persiapan Kelompok}{156}{section.14.1}%
-\contentsline {subsection}{\numberline {14.1.1}Inisialisasi Repository}{156}{subsection.14.1.1}%
-\contentsline {section}{\numberline {14.2}Identifikasi Website Target}{157}{section.14.2}%
-\contentsline {section}{\numberline {14.3}Heuristic Evaluation}{158}{section.14.3}%
-\contentsline {subsection}{\numberline {14.3.1}Langkah Evaluasi}{158}{subsection.14.3.1}%
-\contentsline {subsection}{\numberline {14.3.2}Ringkasan Temuan}{159}{subsection.14.3.2}%
-\contentsline {section}{\numberline {14.4}Benchmarking Singkat}{159}{section.14.4}%
-\contentsline {section}{\numberline {14.5}Perencanaan Desain di Figma}{160}{section.14.5}%
-\contentsline {subsection}{\numberline {14.5.1}Membuat Frame Wireframe}{160}{subsection.14.5.1}%
-\contentsline {subsection}{\numberline {14.5.2}Membuat Mockup}{161}{subsection.14.5.2}%
-\contentsline {subsection}{\numberline {14.5.3}Menulis Rasional Desain}{161}{subsection.14.5.3}%
-\contentsline {section}{\numberline {14.6}Commit dan Push}{162}{section.14.6}%
-\contentsline {section}{\numberline {14.7}Output yang Diharapkan}{162}{section.14.7}%
-\contentsline {section}{\numberline {14.8}Troubleshooting}{163}{section.14.8}%
-\contentsline {section}{\numberline {14.9}Tautan Referensi}{163}{section.14.9}%
-\contentsline {section}{\numberline {14.10}Persiapan untuk Minggu 15}{163}{section.14.10}%
-\contentsline {section}{\numberline {14.11}Latihan Mandiri}{163}{section.14.11}%
-\contentsline {chapter}{\numberline {15}Workshop Proyek Akhir --- Implementasi, Deployment \& Progress Clinic}{164}{chapter.15}%
-\contentsline {section}{\numberline {15.1}Peralatan yang Dibutuhkan}{164}{section.15.1}%
-\contentsline {section}{\numberline {15.2}Synchronisasi Repository}{164}{section.15.2}%
-\contentsline {section}{\numberline {15.3}Implementasi Halaman Utama}{165}{section.15.3}%
-\contentsline {subsection}{\numberline {15.3.1}Struktur HTML Dasar}{165}{subsection.15.3.1}%
-\contentsline {subsection}{\numberline {15.3.2}Pembagian Kerja Kelompok}{166}{subsection.15.3.2}%
-\contentsline {subsection}{\numberline {15.3.3}Styling dengan CSS}{167}{subsection.15.3.3}%
-\contentsline {subsection}{\numberline {15.3.4}Interaktivitas JavaScript (Opsional)}{169}{subsection.15.3.4}%
-\contentsline {section}{\numberline {15.4}Sesi Clinic / Mentoring}{169}{section.15.4}%
-\contentsline {section}{\numberline {15.5}Deployment ke GitHub Pages}{170}{section.15.5}%
-\contentsline {subsection}{\numberline {15.5.1}Persiapan Repository}{170}{subsection.15.5.1}%
-\contentsline {subsection}{\numberline {15.5.2}Aktifkan GitHub Pages}{170}{subsection.15.5.2}%
-\contentsline {subsection}{\numberline {15.5.3}Update Deployment}{171}{subsection.15.5.3}%
-\contentsline {section}{\numberline {15.6}Troubleshooting Deployment}{172}{section.15.6}%
-\contentsline {section}{\numberline {15.7}Troubleshooting Umum}{172}{section.15.7}%
-\contentsline {section}{\numberline {15.8}Persiapan Presentasi}{172}{section.15.8}%
-\contentsline {subsection}{\numberline {15.8.1}Struktur Presentasi}{172}{subsection.15.8.1}%
-\contentsline {subsection}{\numberline {15.8.2}Bagikan Peran Presentasi}{173}{subsection.15.8.2}%
-\contentsline {section}{\numberline {15.9}Final Commit dan Documentation}{173}{section.15.9}%
-\contentsline {section}{\numberline {15.10}Panduan Agentic Coding Tools (Opsional)}{174}{section.15.10}%
-\contentsline {section}{\numberline {15.11}Output yang Diharapkan}{174}{section.15.11}%
-\contentsline {section}{\numberline {15.12}Tautan Referensi}{175}{section.15.12}%
-\contentsline {section}{\numberline {15.13}Persiapan untuk Minggu 16 (Presentasi)}{175}{section.15.13}%
-\contentsline {section}{\numberline {15.14}Latihan Mandiri}{175}{section.15.14}%
-\contentsline {chapter}{\numberline {16}Presentasi, Refleksi \& Finalisasi Proyek Akhir}{176}{chapter.16}%
-\contentsline {section}{\numberline {16.1}Peralatan yang Dibutuhkan}{176}{section.16.1}%
-\contentsline {section}{\numberline {16.2}Persiapan Sebelum Presentasi}{176}{section.16.2}%
-\contentsline {subsection}{\numberline {16.2.1}Cek Kesiapan Teknis}{176}{subsection.16.2.1}%
-\contentsline {subsection}{\numberline {16.2.2}Siapkan Tab Browser}{176}{subsection.16.2.2}%
-\contentsline {section}{\numberline {16.3}Presentasi Kelompok}{177}{section.16.3}%
-\contentsline {subsection}{\numberline {16.3.1}Pembukaan (± 1 Menit)}{177}{subsection.16.3.1}%
-\contentsline {subsection}{\numberline {16.3.2}Riset UI/UX (± 2--3 Menit)}{177}{subsection.16.3.2}%
-\contentsline {subsection}{\numberline {16.3.3}Desain Ulang (± 2--3 Menit)}{178}{subsection.16.3.3}%
-\contentsline {subsection}{\numberline {16.3.4}Live Demo (± 2 Menit)}{179}{subsection.16.3.4}%
-\contentsline {subsection}{\numberline {16.3.5}Pembagian Kerja dan Penggunaan AI (± 1 Menit)}{180}{subsection.16.3.5}%
-\contentsline {subsection}{\numberline {16.3.6}Penutup (± 1 Menit)}{180}{subsection.16.3.6}%
-\contentsline {section}{\numberline {16.4}Tanya-Jawab Individual}{180}{section.16.4}%
-\contentsline {section}{\numberline {16.5}Refleksi Individu}{181}{section.16.5}%
-\contentsline {subsection}{\numberline {16.5.1}Perkembangan Skill}{181}{subsection.16.5.1}%
-\contentsline {subsection}{\numberline {16.5.2}Refleksi Proyek Akhir}{181}{subsection.16.5.2}%
-\contentsline {subsection}{\numberline {16.5.3}Refleksi Pembelajaran}{181}{subsection.16.5.3}%
-\contentsline {section}{\numberline {16.6}Finalisasi Repository}{182}{section.16.6}%
-\contentsline {subsection}{\numberline {16.6.1}Review Checklist Final}{182}{subsection.16.6.1}%
-\contentsline {subsection}{\numberline {16.6.2}Tambahkan File .gitignore}{182}{subsection.16.6.2}%
-\contentsline {subsection}{\numberline {16.6.3}Final Commit}{183}{subsection.16.6.3}%
-\contentsline {section}{\numberline {16.7}Struktur Repository Final}{183}{section.16.7}%
-\contentsline {section}{\numberline {16.8}Deliverable Akhir Proyek}{184}{section.16.8}%
-\contentsline {section}{\numberline {16.9}Troubleshooting}{184}{section.16.9}%
-\contentsline {section}{\numberline {16.10}Tautan Referensi}{185}{section.16.10}%
-\contentsline {section}{\numberline {16.11}Latihan Mandiri}{185}{section.16.11}%
+\contentsline {chapter}{\numberline {3}HTML Dasar: Struktur \& Semantic Tag}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Struktur Dokumen HTML}{16}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Proyek Baru}{16}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Struktur Dasar}{16}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Elemen-Elemen Dasar HTML}{17}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Semantic HTML}{19}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Rekonstruksi dengan Semantic Tag}{19}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Perbandingan dengan Non-Semantic}{21}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Elemen Pendukung Penting}{22}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Anchor (Tautan) --- Detail Atribut}{22}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Image --- Detail Atribut}{22}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Tabel Dasar (Preview)}{23}{subsection.3.4.3}%
+\contentsline {section}{\numberline {3.5}Menghubungkan HTML ke CSS (Dasar)}{24}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Buat File CSS}{24}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Hubungkan ke HTML}{25}{subsection.3.5.2}%
+\contentsline {section}{\numberline {3.6}Validasi HTML}{25}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Latihan Mandiri}{26}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Troubleshooting}{27}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Rangkuman}{27}{section.3.9}%
+\contentsline {chapter}{\numberline {4}HTML Lanjutan: Form, Tabel \& Multimedia}{28}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Form HTML}{28}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Live Coding: Form Pendaftaran Akun}{28}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Jenis-Jenis Input}{32}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Pentingnya Label}{32}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Atribut Validasi Dasar}{33}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}Verifikasi Form}{33}{subsection.4.1.5}%
+\contentsline {section}{\numberline {4.2}Tabel HTML}{34}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Live Coding: Tabel Sederhana}{34}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Struktur Tabel}{37}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Atribut Penting untuk Aksesibilitas}{37}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Multimedia: Gambar, Video, Audio}{38}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Gambar --- Review \& Lanjutan}{38}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Video (HTML5)}{38}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Audio (HTML5)}{39}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}Iframe --- \emph {Embed} Konten Eksternal}{39}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}Praktik: Menggabungkan Semua Elemen}{40}{section.4.4}%
+\contentsline {section}{\numberline {4.5}Validasi \& Push ke GitHub}{45}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Validasi HTML}{45}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Push ke GitHub}{45}{subsection.4.5.2}%
+\contentsline {section}{\numberline {4.6}Latihan Mandiri}{46}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Troubleshooting}{47}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Rangkuman}{47}{section.4.8}%
+\contentsline {chapter}{\numberline {5}CSS Dasar: Selector, Box Model, Typography}{48}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Pengantar CSS}{48}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Box Model}{48}{subsection.5.1.1}%
+\contentsline {section}{\numberline {5.2}Praktikum 1 --- Menyiapkan Proyek}{49}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Praktikum 2 --- Cara Menulis CSS}{49}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Inline CSS (langsung di tag)}{50}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Internal CSS (di dalam tag \texttt {<style>})}{50}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Eksternal CSS (file terpisah)}{50}{subsection.5.3.3}%
+\contentsline {section}{\numberline {5.4}Praktikum 3 --- Selector}{51}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Praktikum 4 --- Box Model}{52}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Praktikum 5 --- Typography}{54}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Latihan Mandiri}{56}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Hasil yang Diharapkan}{56}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Troubleshooting}{57}{section.5.9}%
+\contentsline {section}{\numberline {5.10}Rangkuman}{57}{section.5.10}%
+\contentsline {chapter}{\numberline {6}CSS Layout: Flexbox}{58}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Pengantar Flexbox}{58}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Konsep Utama}{58}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Properti Penting}{58}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Praktikum 1 --- Menyiapkan Proyek}{58}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Praktikum 2 --- Flex Direction}{60}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Praktikum 3 --- Justify Content \& Align Items}{61}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Praktikum 4 --- Flex Wrap \& Gap}{62}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Praktikum 5 --- Properti Flex pada Item}{63}{section.6.6}%
+\contentsline {section}{\numberline {6.7}Praktikum 6 --- Membangun Navbar dengan Flexbox}{64}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Praktikum 7 --- Galeri Foto dengan Flexbox}{66}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Latihan Mandiri}{67}{section.6.9}%
+\contentsline {section}{\numberline {6.10}Hasil yang Diharapkan}{68}{section.6.10}%
+\contentsline {section}{\numberline {6.11}Troubleshooting}{69}{section.6.11}%
+\contentsline {section}{\numberline {6.12}Rangkuman}{69}{section.6.12}%
+\contentsline {chapter}{\numberline {7}CSS Layout: Grid \& Responsive Design}{70}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Pengantar CSS Grid}{70}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Media Query}{70}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Breakpoint Umum}{71}{subsection.7.1.2}%
+\contentsline {section}{\numberline {7.2}Praktikum 1 --- Menyiapkan Proyek}{71}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Praktikum 2 --- Mengatur Kolom dan Baris}{72}{section.7.3}%
+\contentsline {section}{\numberline {7.4}Praktikum 3 --- Menempatkan Item di Grid}{73}{section.7.4}%
+\contentsline {section}{\numberline {7.5}Praktikum 4 --- Pengenalan Media Query}{75}{section.7.5}%
+\contentsline {section}{\numberline {7.6}Praktikum 5 --- Mobile-First}{77}{section.7.6}%
+\contentsline {section}{\numberline {7.7}Praktikum 6 --- Membuat Layout Responsif Lengkap}{78}{section.7.7}%
+\contentsline {section}{\numberline {7.8}Latihan Mandiri}{81}{section.7.8}%
+\contentsline {section}{\numberline {7.9}Hasil yang Diharapkan}{82}{section.7.9}%
+\contentsline {section}{\numberline {7.10}Troubleshooting}{83}{section.7.10}%
+\contentsline {section}{\numberline {7.11}Rangkuman}{83}{section.7.11}%
+\contentsline {chapter}{\numberline {8}Git \& GitHub Dasar: Init, Commit, Push, Pull}{85}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Apa itu Git?}{85}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Apa itu GitHub?}{85}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Alur Kerja Dasar}{85}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Praktikum 1 --- Memeriksa Instalasi Git}{86}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Praktikum 2 --- Konfigurasi Git}{86}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Praktikum 3 --- Inisialisasi Repository}{87}{section.8.6}%
+\contentsline {section}{\numberline {8.7}Praktikum 4 --- Membuat File \texttt {.gitignore}}{88}{section.8.7}%
+\contentsline {section}{\numberline {8.8}Praktikum 5 --- Commit Pertama}{88}{section.8.8}%
+\contentsline {section}{\numberline {8.9}Praktikum 6 --- Membuat Repository di GitHub}{89}{section.8.9}%
+\contentsline {section}{\numberline {8.10}Praktikum 7 --- Menghubungkan dan Push}{90}{section.8.10}%
+\contentsline {section}{\numberline {8.11}Praktikum 8 --- Mengubah File dan Commit Lagi}{91}{section.8.11}%
+\contentsline {section}{\numberline {8.12}Praktikum 9 --- Pull (Mengambil Perubahan)}{91}{section.8.12}%
+\contentsline {section}{\numberline {8.13}Latihan Mandiri}{92}{section.8.13}%
+\contentsline {section}{\numberline {8.14}Hasil yang Diharapkan}{92}{section.8.14}%
+\contentsline {section}{\numberline {8.15}Troubleshooting}{93}{section.8.15}%
+\contentsline {section}{\numberline {8.16}Rangkuman}{93}{section.8.16}%
+\contentsline {chapter}{\numberline {9}GitHub Kolaborasi: Branch, Pull Request, GitHub Pages}{94}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Apa itu Branch?}{94}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Apa itu Pull Request (PR)?}{94}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Apa itu GitHub Pages?}{94}{section.9.3}%
+\contentsline {section}{\numberline {9.4}Praktikum 1 --- Membuat Branch}{95}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Praktikum 2 --- Bekerja di Branch Baru}{95}{section.9.5}%
+\contentsline {section}{\numberline {9.6}Praktikum 3 --- Menggabungkan Branch (Merge)}{96}{section.9.6}%
+\contentsline {section}{\numberline {9.7}Praktikum 4 --- Push Branch ke GitHub}{97}{section.9.7}%
+\contentsline {section}{\numberline {9.8}Praktikum 5 --- Membuat Pull Request (PR)}{98}{section.9.8}%
+\contentsline {section}{\numberline {9.9}Praktikum 6 --- Merge Pull Request}{99}{section.9.9}%
+\contentsline {section}{\numberline {9.10}Praktikum 7 --- Menyiapkan GitHub Pages}{100}{section.9.10}%
+\contentsline {section}{\numberline {9.11}Praktikum 8 --- Memperbarui Website di GitHub Pages}{101}{section.9.11}%
+\contentsline {section}{\numberline {9.12}Latihan Mandiri}{102}{section.9.12}%
+\contentsline {section}{\numberline {9.13}Hasil yang Diharapkan}{102}{section.9.13}%
+\contentsline {section}{\numberline {9.14}Troubleshooting}{103}{section.9.14}%
+\contentsline {section}{\numberline {9.15}Rangkuman}{103}{section.9.15}%
+\contentsline {chapter}{\numberline {10}JavaScript Dasar: Variabel, Fungsi, Kondisi \& DOM Selection}{104}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Persiapan}{104}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Menulis Skrip Pertama}{104}{section.10.2}%
+\contentsline {subsection}{\numberline {10.2.1}Yang Terjadi}{105}{subsection.10.2.1}%
+\contentsline {section}{\numberline {10.3}Variabel \& Tipe Data}{105}{section.10.3}%
+\contentsline {subsection}{\numberline {10.3.1}Deklarasi Variabel}{105}{subsection.10.3.1}%
+\contentsline {subsection}{\numberline {10.3.2}Tipe Data Dasar}{106}{subsection.10.3.2}%
+\contentsline {section}{\numberline {10.4}Fungsi}{107}{section.10.4}%
+\contentsline {section}{\numberline {10.5}Kondisi (If/Else)}{108}{section.10.5}%
+\contentsline {section}{\numberline {10.6}DOM Selection}{109}{section.10.6}%
+\contentsline {subsection}{\numberline {10.6.1}Ringkasan Metode DOM Selection}{111}{subsection.10.6.1}%
+\contentsline {section}{\numberline {10.7}Latihan}{112}{section.10.7}%
+\contentsline {section}{\numberline {10.8}Troubleshooting}{114}{section.10.8}%
+\contentsline {chapter}{\numberline {11}JavaScript: Event Handling \& Manipulasi DOM}{115}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Event Handling: onclick \& addEventListener}{115}{section.11.1}%
+\contentsline {subsection}{\numberline {11.1.1}Mengapa addEventListener Lebih Baik?}{117}{subsection.11.1.1}%
+\contentsline {subsection}{\numberline {11.1.2}Event Populer}{117}{subsection.11.1.2}%
+\contentsline {section}{\numberline {11.2}Event pada Form \& Input}{117}{section.11.2}%
+\contentsline {section}{\numberline {11.3}Manipulasi DOM: Mengubah Konten}{119}{section.11.3}%
+\contentsline {section}{\numberline {11.4}Manipulasi DOM: Membuat \& Menghapus Elemen}{121}{section.11.4}%
+\contentsline {subsection}{\numberline {11.4.1}Cara Membuat \& Menambah Elemen}{123}{subsection.11.4.1}%
+\contentsline {section}{\numberline {11.5}Mini Proyek: Toggle Menu Mobile}{124}{section.11.5}%
+\contentsline {section}{\numberline {11.6}Latihan}{126}{section.11.6}%
+\contentsline {section}{\numberline {11.7}Troubleshooting}{128}{section.11.7}%
+\contentsline {chapter}{\numberline {12}Pengenalan Tailwind CSS}{129}{chapter.12}%
+\contentsline {section}{\numberline {12.1}Konsep: Apa Itu Tailwind CSS?}{129}{section.12.1}%
+\contentsline {subsection}{\numberline {12.1.1}CSS Tradisional vs Tailwind CSS}{129}{subsection.12.1.1}%
+\contentsline {subsection}{\numberline {12.1.2}Mengapa Tailwind?}{130}{subsection.12.1.2}%
+\contentsline {section}{\numberline {12.2}Setup Tailwind di Proyek}{130}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Eksplorasi Utility Class Dasar}{131}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}Layout \& Spacing}{131}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}Tipografi}{131}{subsection.12.3.2}%
+\contentsline {subsection}{\numberline {12.3.3}Warna \& Background}{132}{subsection.12.3.3}%
+\contentsline {subsection}{\numberline {12.3.4}Border \& Rounded}{132}{subsection.12.3.4}%
+\contentsline {subsection}{\numberline {12.3.5}Responsive (Mobile-First)}{132}{subsection.12.3.5}%
+\contentsline {subsection}{\numberline {12.3.6}Coba Sendiri: Playground}{133}{subsection.12.3.6}%
+\contentsline {section}{\numberline {12.4}Konversi: CSS Manual ke Tailwind}{134}{section.12.4}%
+\contentsline {subsection}{\numberline {12.4.1}Pemetaan CSS ke Tailwind}{137}{subsection.12.4.1}%
+\contentsline {section}{\numberline {12.5}Layout dengan Tailwind: Flexbox \& Grid}{137}{section.12.5}%
+\contentsline {subsection}{\numberline {12.5.1}Flexbox dengan Tailwind}{137}{subsection.12.5.1}%
+\contentsline {subsection}{\numberline {12.5.2}Grid dengan Tailwind}{138}{subsection.12.5.2}%
+\contentsline {section}{\numberline {12.6}Latihan}{139}{section.12.6}%
+\contentsline {section}{\numberline {12.7}Troubleshooting}{141}{section.12.7}%
+\contentsline {chapter}{\numberline {13}Pengenalan React: Komponen, JSX \& Props}{142}{chapter.13}%
+\contentsline {section}{\numberline {13.1}Mengapa React?}{142}{section.13.1}%
+\contentsline {subsection}{\numberline {13.1.1}Perbandingan: Tanpa React vs Dengan React}{142}{subsection.13.1.1}%
+\contentsline {subsection}{\numberline {13.1.2}Mengapa React Populer?}{143}{subsection.13.1.2}%
+\contentsline {section}{\numberline {13.2}Membaca Kode React (Tanpa Menjalankan)}{143}{section.13.2}%
+\contentsline {subsection}{\numberline {13.2.1}Kode 1 --- Komponen Paling Sederhana}{143}{subsection.13.2.1}%
+\contentsline {subsection}{\numberline {13.2.2}Kode 2 --- Komponen dengan Props}{144}{subsection.13.2.2}%
+\contentsline {subsection}{\numberline {13.2.3}Kode 3 --- Komponen dengan Daftar (Map)}{145}{subsection.13.2.3}%
+\contentsline {subsection}{\numberline {13.2.4}Kode 4 --- Komponen Bersarang (Nested)}{145}{subsection.13.2.4}%
+\contentsline {section}{\numberline {13.3}JSX: HTML yang ``Bisa Dikode''}{146}{section.13.3}%
+\contentsline {subsection}{\numberline {13.3.1}Perbedaan JSX vs HTML}{146}{subsection.13.3.1}%
+\contentsline {subsection}{\numberline {13.3.2}JSX Adalah Ekspresi JavaScript}{146}{subsection.13.3.2}%
+\contentsline {section}{\numberline {13.4}Komponen: Blok Bangunan UI}{147}{section.13.4}%
+\contentsline {section}{\numberline {13.5}Props: Mengirim Data ke Komponen}{148}{section.13.5}%
+\contentsline {subsection}{\numberline {13.5.1}Analogi Fungsi JavaScript}{148}{subsection.13.5.1}%
+\contentsline {subsection}{\numberline {13.5.2}Props Bisa Berisi Apa Saja}{148}{subsection.13.5.2}%
+\contentsline {subsection}{\numberline {13.5.3}Aturan Penting Props}{149}{subsection.13.5.3}%
+\contentsline {section}{\numberline {13.6}Demo Lengkap: Membaca \& Memahami Kode React}{150}{section.13.6}%
+\contentsline {section}{\numberline {13.7}Latihan}{153}{section.13.7}%
+\contentsline {section}{\numberline {13.8}Troubleshooting \& Catatan}{155}{section.13.8}%
+\contentsline {subsection}{\numberline {13.8.1}FAQ Umum tentang React}{155}{subsection.13.8.1}%
+\contentsline {subsection}{\numberline {13.8.2}Kosa Kata React}{156}{subsection.13.8.2}%
+\contentsline {subsection}{\numberline {13.8.3}Ringkasan Perjalanan Minggu 10--13}{156}{subsection.13.8.3}%
+\contentsline {chapter}{\numberline {14}Workshop Proyek Akhir --- Riset UI/UX \& Perencanaan Desain}{157}{chapter.14}%
+\contentsline {section}{\numberline {14.1}Persiapan Kelompok}{157}{section.14.1}%
+\contentsline {subsection}{\numberline {14.1.1}Inisialisasi Repository}{157}{subsection.14.1.1}%
+\contentsline {section}{\numberline {14.2}Identifikasi Website Target}{158}{section.14.2}%
+\contentsline {section}{\numberline {14.3}Heuristic Evaluation}{159}{section.14.3}%
+\contentsline {subsection}{\numberline {14.3.1}Langkah Evaluasi}{159}{subsection.14.3.1}%
+\contentsline {subsection}{\numberline {14.3.2}Ringkasan Temuan}{160}{subsection.14.3.2}%
+\contentsline {section}{\numberline {14.4}Benchmarking Singkat}{160}{section.14.4}%
+\contentsline {section}{\numberline {14.5}Perencanaan Desain di Figma}{161}{section.14.5}%
+\contentsline {subsection}{\numberline {14.5.1}Membuat Frame Wireframe}{161}{subsection.14.5.1}%
+\contentsline {subsection}{\numberline {14.5.2}Membuat Mockup}{162}{subsection.14.5.2}%
+\contentsline {subsection}{\numberline {14.5.3}Menulis Rasional Desain}{162}{subsection.14.5.3}%
+\contentsline {section}{\numberline {14.6}Commit dan Push}{163}{section.14.6}%
+\contentsline {section}{\numberline {14.7}Output yang Diharapkan}{163}{section.14.7}%
+\contentsline {section}{\numberline {14.8}Troubleshooting}{164}{section.14.8}%
+\contentsline {section}{\numberline {14.9}Tautan Referensi}{164}{section.14.9}%
+\contentsline {section}{\numberline {14.10}Persiapan untuk Minggu 15}{164}{section.14.10}%
+\contentsline {section}{\numberline {14.11}Latihan Mandiri}{164}{section.14.11}%
+\contentsline {chapter}{\numberline {15}Workshop Proyek Akhir --- Implementasi, Deployment \& Progress Clinic}{165}{chapter.15}%
+\contentsline {section}{\numberline {15.1}Peralatan yang Dibutuhkan}{165}{section.15.1}%
+\contentsline {section}{\numberline {15.2}Synchronisasi Repository}{165}{section.15.2}%
+\contentsline {section}{\numberline {15.3}Implementasi Halaman Utama}{166}{section.15.3}%
+\contentsline {subsection}{\numberline {15.3.1}Struktur HTML Dasar}{166}{subsection.15.3.1}%
+\contentsline {subsection}{\numberline {15.3.2}Pembagian Kerja Kelompok}{167}{subsection.15.3.2}%
+\contentsline {subsection}{\numberline {15.3.3}Styling dengan CSS}{168}{subsection.15.3.3}%
+\contentsline {subsection}{\numberline {15.3.4}Interaktivitas JavaScript (Opsional)}{170}{subsection.15.3.4}%
+\contentsline {section}{\numberline {15.4}Sesi Clinic / Mentoring}{170}{section.15.4}%
+\contentsline {section}{\numberline {15.5}Deployment ke GitHub Pages}{171}{section.15.5}%
+\contentsline {subsection}{\numberline {15.5.1}Persiapan Repository}{171}{subsection.15.5.1}%
+\contentsline {subsection}{\numberline {15.5.2}Aktifkan GitHub Pages}{171}{subsection.15.5.2}%
+\contentsline {subsection}{\numberline {15.5.3}Update Deployment}{172}{subsection.15.5.3}%
+\contentsline {section}{\numberline {15.6}Troubleshooting Deployment}{173}{section.15.6}%
+\contentsline {section}{\numberline {15.7}Troubleshooting Umum}{173}{section.15.7}%
+\contentsline {section}{\numberline {15.8}Persiapan Presentasi}{173}{section.15.8}%
+\contentsline {subsection}{\numberline {15.8.1}Struktur Presentasi}{173}{subsection.15.8.1}%
+\contentsline {subsection}{\numberline {15.8.2}Bagikan Peran Presentasi}{174}{subsection.15.8.2}%
+\contentsline {section}{\numberline {15.9}Final Commit dan Documentation}{174}{section.15.9}%
+\contentsline {section}{\numberline {15.10}Panduan Agentic Coding Tools (Opsional)}{175}{section.15.10}%
+\contentsline {section}{\numberline {15.11}Output yang Diharapkan}{175}{section.15.11}%
+\contentsline {section}{\numberline {15.12}Tautan Referensi}{176}{section.15.12}%
+\contentsline {section}{\numberline {15.13}Persiapan untuk Minggu 16 (Presentasi)}{176}{section.15.13}%
+\contentsline {section}{\numberline {15.14}Latihan Mandiri}{176}{section.15.14}%
+\contentsline {chapter}{\numberline {16}Presentasi, Refleksi \& Finalisasi Proyek Akhir}{177}{chapter.16}%
+\contentsline {section}{\numberline {16.1}Peralatan yang Dibutuhkan}{177}{section.16.1}%
+\contentsline {section}{\numberline {16.2}Persiapan Sebelum Presentasi}{177}{section.16.2}%
+\contentsline {subsection}{\numberline {16.2.1}Cek Kesiapan Teknis}{177}{subsection.16.2.1}%
+\contentsline {subsection}{\numberline {16.2.2}Siapkan Tab Browser}{177}{subsection.16.2.2}%
+\contentsline {section}{\numberline {16.3}Presentasi Kelompok}{178}{section.16.3}%
+\contentsline {subsection}{\numberline {16.3.1}Pembukaan (± 1 Menit)}{178}{subsection.16.3.1}%
+\contentsline {subsection}{\numberline {16.3.2}Riset UI/UX (± 2--3 Menit)}{178}{subsection.16.3.2}%
+\contentsline {subsection}{\numberline {16.3.3}Desain Ulang (± 2--3 Menit)}{179}{subsection.16.3.3}%
+\contentsline {subsection}{\numberline {16.3.4}Live Demo (± 2 Menit)}{180}{subsection.16.3.4}%
+\contentsline {subsection}{\numberline {16.3.5}Pembagian Kerja dan Penggunaan AI (± 1 Menit)}{181}{subsection.16.3.5}%
+\contentsline {subsection}{\numberline {16.3.6}Penutup (± 1 Menit)}{181}{subsection.16.3.6}%
+\contentsline {section}{\numberline {16.4}Tanya-Jawab Individual}{181}{section.16.4}%
+\contentsline {section}{\numberline {16.5}Refleksi Individu}{182}{section.16.5}%
+\contentsline {subsection}{\numberline {16.5.1}Perkembangan Skill}{182}{subsection.16.5.1}%
+\contentsline {subsection}{\numberline {16.5.2}Refleksi Proyek Akhir}{182}{subsection.16.5.2}%
+\contentsline {subsection}{\numberline {16.5.3}Refleksi Pembelajaran}{182}{subsection.16.5.3}%
+\contentsline {section}{\numberline {16.6}Finalisasi Repository}{183}{section.16.6}%
+\contentsline {subsection}{\numberline {16.6.1}Review Checklist Final}{183}{subsection.16.6.1}%
+\contentsline {subsection}{\numberline {16.6.2}Tambahkan File .gitignore}{183}{subsection.16.6.2}%
+\contentsline {subsection}{\numberline {16.6.3}Final Commit}{184}{subsection.16.6.3}%
+\contentsline {section}{\numberline {16.7}Struktur Repository Final}{184}{section.16.7}%
+\contentsline {section}{\numberline {16.8}Deliverable Akhir Proyek}{185}{section.16.8}%
+\contentsline {section}{\numberline {16.9}Troubleshooting}{185}{section.16.9}%
+\contentsline {section}{\numberline {16.10}Tautan Referensi}{186}{section.16.10}%
+\contentsline {section}{\numberline {16.11}Latihan Mandiri}{186}{section.16.11}%
