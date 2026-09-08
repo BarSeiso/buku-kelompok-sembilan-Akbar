@@ -151,11 +151,12 @@ Simpan file (\textbf{Ctrl + S}) $\rightarrow$ buka dengan \emph{Live Server}.
 Periksa di peramban: apakah terlihat 3 \emph{heading} (h1, h2, h3) dengan ukuran berbeda, 2 paragraf, 1 tautan, 1 gambar \emph{placeholder}, 1 daftar \emph{bullet}, 1 daftar bernomor, 1 garis horizontal, 1 teks tebal, dan 1 teks miring?
 \end{tip}
 
-\begin{tangkapanlayar}
-  {assets/images/minggu-03/browser-elemen-dasar.png}
-  {Peramban yang menampilkan hasil elemen HTML dasar.}
-  {Pastikan terlihat heading, paragraph, link, gambar, lists, strong, em.}
-\end{tangkapanlayar}
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.85\linewidth]{minggu-03/browser-elemen-dasar.png}
+  \caption{Peramban yang menampilkan hasil elemen HTML dasar.}
+  \label{fig:m03-elemen-dasar}
+\end{figure}
 
 % ---------------------------------------------------------------------
 % 5. SEMANTIC HTML
@@ -493,11 +494,12 @@ Di file \texttt{profil.html}, tambahkan tag \texttt{<link>} di dalam \texttt{<he
 
 Simpan kedua file $\rightarrow$ buka \texttt{profil.html} via \emph{Live Server}.
 
-\begin{tangkapanlayar}
-  {assets/images/minggu-03/profil-dengan-css.png}
-  {Halaman \texttt{profil.html} di peramban dengan CSS.}
-  {Pastikan terlihat \emph{header} berwarna gelap, layout terpusat, dan \emph{footer} berwarna gelap.}
-\end{tangkapanlayar}
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.85\linewidth]{minggu-03/profil-dengan-css.png}
+  \caption{Halaman \texttt{profil.html} di peramban dengan CSS.}
+  \label{fig:m03-profil-css}
+\end{figure}
 
 % ---------------------------------------------------------------------
 % 8. VALIDASI HTML
@@ -513,11 +515,12 @@ Simpan kedua file $\rightarrow$ buka \texttt{profil.html} via \emph{Live Server}
   \item Pastikan hasil: ``Document checking completed. No errors or warnings to show.''
 \end{langkah}
 
-\begin{tangkapanlayar}
-  {assets/images/minggu-03/w3c-validasi.png}
-  {W3C HTML Validator yang menunjukkan hasil validasi tanpa error.}
-  {Pastikan terlihat pesan ``No errors or warnings to show''.}
-\end{tangkapanlayar}
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.85\linewidth]{minggu-03/w3c-validasi.png}
+  \caption{W3C HTML Validator yang menunjukkan hasil validasi tanpa error.}
+  \label{fig:m03-w3c-validasi}
+\end{figure}
 
 Jika ada error, perbaiki berdasarkan pesan yang diberikan validator, lalu cek ulang.
 
@@ -559,6 +562,99 @@ git push -u origin main
 \begin{tip}
 Pastikan file \texttt{index.html}, \texttt{profil.html}, \texttt{tips.html}, dan \texttt{style.css} terlihat di \emph{repository} GitHub.
 \end{tip}
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.85\linewidth]{minggu-03/latihan-web-minggu-03.png}
+  \caption{Ini adalah hasil file yang sudah saya push di github.}
+  \label{fig:m03-github-push}
+\end{figure}
+
+\begin{figure}[htbp]
+  \centering
+  \includegraphics[width=0.85\linewidth]{minggu-03/tampilan-tips.html.png}
+  \caption{Ini adalah tampilan tips.html yang saya kerjakan. Sebagai catatan saya memakai styling dari style.css bawaan modul}
+  \label{fig:m03-tips-html}
+\end{figure}
+
+\begin{lstlisting}[language=HTML, caption={tips.html}, label={lst:m03-tips}]
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tips Belajar HTML</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Tips Belajar HTML untuk Pemula</h1>
+        <nav>
+            <ul>
+                <li><a href="#html">HTML</a></li>
+                <li><a href="#tips">Tips</a></li>
+                <li><a href="#kesalahan">Kesalahan</a></li>
+                <li><a href="#source">Source</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="html">
+            <h2>Mengapa HTML Penting</h2>
+            <p>HTML (HyperText Markup Language) merupakan bahasa dasar yang digunakan untuk membangun struktur sebuah halaman web. Dengan HTML, kita dapat menentukan berbagai elemen pada website seperti judul, paragraf, gambar, tabel, tautan, formulir, dan lainnya. Hampir setiap website yang kita akses menggunakan HTML sebagai bagian utama untuk menyusun dan menampilkan konten agar dapat dipahami oleh browser.</p>
+            <p>HTML juga penting karena menjadi dasar dalam pengembangan web sebelum menggunakan teknologi lain seperti CSS dan JavaScript. CSS digunakan untuk mengatur tampilan dan desain halaman, sedangkan JavaScript digunakan untuk menambahkan interaksi dan fungsi dinamis. Dengan memahami HTML, seseorang akan lebih mudah mempelajari teknologi web lainnya serta membuat website yang terstruktur, mudah dipahami, dan dapat diakses oleh berbagai perangkat.</p>
+        </section>
+
+        <section id="tips">
+            <h2>Tips HTML</h2>
+            <ol>
+                <li>Gunakan struktur HTML yang rapi dan sesuai standar agar kode mudah dibaca.</li>
+                <li>Gunakan tag semantik seperti header, nav, main, section, dan footer sesuai dengan fungsinya.</li>
+                <li>Selalu gunakan atribut alt pada tag img untuk memberikan deskripsi pada gambar.</li>
+                <li>Gunakan heading seperti h1 hingga h6 secara berurutan untuk membuat struktur konten yang jelas.</li>
+                <li>Biasakan menutup setiap tag HTML dengan benar agar tidak terjadi kesalahan pada struktur halaman.</li>
+            </ol>
+        </section>
+
+        <section id="kesalahan">
+            <h2>Kesalahan Umum</h2>
+            <ul>
+                <li>
+                    <strong>Tidak menutup tag</strong>
+                    <p>Biasanya banyak web developer termasuk saya yang sering kelupaan untuk menutup tag saat membuat website.</p>
+                </li>
+                <li>
+                    <strong>Menggunakan div terus menerus</strong>
+                    <p>Awalnya saya berpikir untuk menggunakan div dan id/class, tetapi itu merupakan cara pembuatan website yang salah. Gunakan header, nav, main, section untuk pembuatan website yang lebih baik, serta dapat memudahkan orang disabilitas.</p>
+                </li>
+                <li>
+                    <strong>Tidak menggunakan tag sesuai fungsinya</strong>
+                    <p>Misal ketika membuat judul menggunakan h2, ini adalah salah satu kesalahan yang cukup umum ketika masih pemula. Gunakan level header sesuai fungsinya, h1 untuk judul, h2 untuk sub judul, h3 untuk sub sub judul.</p>
+                </li>
+                <li>
+                    <strong>Terlalu bergantung kepada AI</strong>
+                    <p>Penggunaan AI memang bagus dan dapat memudahkan kita, tetapi penggunaan AI tanpa kita pahami lebih dalam hanya dapat berdampak buruk untuk perkembangan skill coding kita. Gunakan AI dan pahami, coba untuk bereksperimen lebih dalam.</p>
+                </li>
+            </ul>
+        </section>
+
+        <section id="source">
+            <h2>Sumber Belajar</h2>
+            <ul>
+                <li><a href="https://developer.mozilla.org" target="_blank" rel="noopener noreferrer">MDN</a></li>
+                <li><a href="https://www.w3schools.com/" target="_blank" rel="noopener noreferrer">W3Schools</a></li>
+                <li><a href="https://www.petanikode.com/html-dasar/" target="_blank" rel="noopener noreferrer">Petani Kode</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Muhammad Aulia Akbar Nurdiansyah.</p>
+    </footer>
+</body>
+</html>
+\end{lstlisting}
 
 % ---------------------------------------------------------------------
 % 10. TROUBLESHOOTING
