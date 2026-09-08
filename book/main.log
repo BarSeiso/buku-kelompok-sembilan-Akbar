@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.9.5)  5 SEP 2026 20:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.9.5)  6 SEP 2026 18:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1725,18 +1725,18 @@ File: lstlang1.sty 2025/11/14 1.11b listings language file
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 )
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 131.
-<assets/images/minggu-01/vs-code-index.html.png, id=1283, 1925.1925pt x 1032.85875pt>
+<assets/images/minggu-01/vs-code-index.html.png, id=1295, 1925.1925pt x 1032.85875pt>
 File: assets/images/minggu-01/vs-code-index.html.png Graphic file (type png)
 <use assets/images/minggu-01/vs-code-index.html.png>
 Package pdftex.def Info: assets/images/minggu-01/vs-code-index.html.png  used on input line 143.
 (pdftex.def)             Requested size: 411.14528pt x 220.56308pt.
  [2]
-<assets/images/minggu-01/browser-halo-dunia.png, id=1306, 959.585pt x 240.9pt>
+<assets/images/minggu-01/browser-halo-dunia.png, id=1318, 959.585pt x 240.9pt>
 File: assets/images/minggu-01/browser-halo-dunia.png Graphic file (type png)
 <use assets/images/minggu-01/browser-halo-dunia.png>
 Package pdftex.def Info: assets/images/minggu-01/browser-halo-dunia.png  used on input line 151.
 (pdftex.def)             Requested size: 386.95897pt x 97.14491pt.
-<assets/images/minggu-01/dashboard-github.png, id=1307, 1926.19624pt x 975.645pt>
+<assets/images/minggu-01/dashboard-github.png, id=1319, 1926.19624pt x 975.645pt>
 File: assets/images/minggu-01/dashboard-github.png Graphic file (type png)
 <use assets/images/minggu-01/dashboard-github.png>
 Package pdftex.def Info: assets/images/minggu-01/dashboard-github.png  used on input line 173.
@@ -1749,7 +1749,7 @@ File: lstlang1.sty 2025/11/14 1.11b listings language file
 ) (C:\Users\barof\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 ) [4 <./assets/images/minggu-01/dashboard-github.png>]
-<assets/images/minggu-01/repository-github.png, id=1346, 954.56625pt x 722.7pt>
+<assets/images/minggu-01/repository-github.png, id=1358, 954.56625pt x 722.7pt>
 File: assets/images/minggu-01/repository-github.png Graphic file (type png)
 <use assets/images/minggu-01/repository-github.png>
 Package pdftex.def Info: assets/images/minggu-01/repository-github.png  used on input line 235.
@@ -1757,7 +1757,7 @@ Package pdftex.def Info: assets/images/minggu-01/repository-github.png  used on 
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/it' will be
 (Font)              scaled to size 10.95pt on input line 257.
  [5 <./assets/images/minggu-01/repository-github.png>]
-<assets/images/minggu-01/perbandingan-url.png, id=1362, 1926.19624pt x 417.56pt>
+<assets/images/minggu-01/perbandingan-url.png, id=1374, 1926.19624pt x 417.56pt>
 File: assets/images/minggu-01/perbandingan-url.png Graphic file (type png)
 <use assets/images/minggu-01/perbandingan-url.png>
 Package pdftex.def Info: assets/images/minggu-01/perbandingan-url.png  used on input line 269.
@@ -1783,37 +1783,70 @@ Underfull \hbox (badness 1009) in paragraph at lines 312--312
 
 [6 <./assets/images/minggu-01/perbandingan-url.png>]) (chapters/minggu-02.tex [7]
 Bab 2.
-LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 63.
-LaTeX Font Info:    Trying to load font information for OMS+lmtt on input line 63.
-LaTeX Font Info:    No file OMSlmtt.fd. on input line 63.
-
-LaTeX Font Warning: Font shape `OMS/lmtt/m/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbackslash' on input line 63.
-
+<assets/images/minggu-02/figma-frame-kosong.png, id=1405, 1926.19624pt x 1083.04625pt>
+File: assets/images/minggu-02/figma-frame-kosong.png Graphic file (type png)
+<use assets/images/minggu-02/figma-frame-kosong.png>
+Package pdftex.def Info: assets/images/minggu-02/figma-frame-kosong.png  used on input line 62.
+(pdftex.def)             Requested size: 411.14528pt x 231.16476pt.
 [8
 
-] [9] [10]
-LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 184.
+] [9 <./assets/images/minggu-02/figma-frame-kosong.png>] [10]
+LaTeX Font Info:    Trying to load font information for TS1+lmtt on input line 185.
  (C:\Users\barof\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmtt.fd
 File: ts1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-Underfull \hbox (badness 1308) in paragraph at lines 212--212
+<assets/images/minggu-02/wireframe-profil-diri.png, id=1443, 1926.19624pt x 1083.04625pt>
+File: assets/images/minggu-02/wireframe-profil-diri.png Graphic file (type png)
+<use assets/images/minggu-02/wireframe-profil-diri.png>
+Package pdftex.def Info: assets/images/minggu-02/wireframe-profil-diri.png  used on input line 190.
+(pdftex.def)             Requested size: 411.14528pt x 231.16476pt.
+
+Underfull \hbox (badness 1308) in paragraph at lines 214--214
 []|\OT1/ntxtlf/m/n/10 Pengguna harus tahu apa
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 214--215
+Underfull \hbox (badness 1442) in paragraph at lines 216--217
 []|\OT1/ntxtlf/m/n/10 Form in-put harus punya \OT1/ntxtlf/m/it/10 place-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
+[11{C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc} <./assets/images/minggu-02/wireframe-profil-diri.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 238--239
 []|\OT1/ntxtlf/m/n/10.95 Tombol ``Hubungi Saya''
  []
 
-[11{C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}] [12] [13]) (chapters/minggu-03.tex [14]
+[12]
+<assets/images/minggu-02/wireframe-portofolio.png, id=1465, 1926.19624pt x 1083.04625pt>
+File: assets/images/minggu-02/wireframe-portofolio.png Graphic file (type png)
+<use assets/images/minggu-02/wireframe-portofolio.png>
+Package pdftex.def Info: assets/images/minggu-02/wireframe-portofolio.png  used on input line 302.
+(pdftex.def)             Requested size: 411.14528pt x 231.16476pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+[]|\OT1/ntxtlf/m/n/10.95 Saat melakukan pen-car-ian,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 323--324
+\OT1/ntxtlf/m/n/10.95 bahwa pen-car-i-an-nya sedang
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 325--326
+[]|\OT1/ntxtlf/m/n/10.95 Google mem-bantu mence-gah
+ []
+
+
+Underfull \hbox (badness 5637) in paragraph at lines 325--326
+\OT1/ntxtlf/m/n/10.95 saran pen-car-ian ketika kita
+ []
+
+<assets/images/minggu-02/webaim-contrast-checker.png, id=1466, 1926.19624pt x 1083.04625pt>
+File: assets/images/minggu-02/webaim-contrast-checker.png Graphic file (type png)
+<use assets/images/minggu-02/webaim-contrast-checker.png>
+Package pdftex.def Info: assets/images/minggu-02/webaim-contrast-checker.png  used on input line 341.
+(pdftex.def)             Requested size: 411.14528pt x 231.16476pt.
+[13 <./assets/images/minggu-02/wireframe-portofolio.png>]) (chapters/minggu-03.tex [14] [15 <./assets/images/minggu-02/webaim-contrast-checker.png>]
 Bab 3.
 
 Underfull \hbox (badness 5578) in paragraph at lines 78--79
@@ -1825,9 +1858,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 82--82
 []|\OT1/lmtt/m/n/10.95 <meta
  []
 
-[15
+[16
 
-] [16] [17]
+] [17]
+LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
+(Font)              scaled to size 12.0pt on input line 157.
+LaTeX Font Info:    Trying to load font information for OMS+lmtt on input line 157.
+LaTeX Font Info:    No file OMSlmtt.fd. on input line 157.
+
+
+LaTeX Font Warning: Font shape `OMS/lmtt/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbackslash' on input line 157.
+
+[18]
 Underfull \hbox (badness 10000) in paragraph at lines 183--183
 []|\OT1/lmtt/m/n/10 <div> \OT1/ntxtlf/m/n/10 un-tuk kon-ten
  []
@@ -1847,7 +1891,7 @@ Underfull \hbox (badness 5217) in paragraph at lines 185--186
 []|\OT1/lmtt/m/n/10 <section> \OT1/ntxtlf/m/n/10 = bagian tem-atik;
  []
 
-[18] [19] [20] [21] [22] [23] [24] [25]
+[19] [20] [21] [22] [23] [24] [25] [26]
 Underfull \hbox (badness 10000) in paragraph at lines 579--580
 []|\OT1/ntxtlf/m/n/10 Pastikan \OT1/lmtt/m/n/10 href="#section-id" \OT1/ntxtlf/m/n/10 co-cok den-gan
  []
@@ -1867,11 +1911,11 @@ Underfull \hbox (badness 2310) in paragraph at lines 582--583
 []|\OT1/ntxtlf/m/n/10 Tag \OT1/lmtt/m/n/10 <meta name="viewport" ...> \OT1/ntxtlf/m/n/10 harus ada di
  []
 
-) (chapters/minggu-04.tex [26]
+) (chapters/minggu-04.tex [27]
 Bab 4.
-[27
+[28
 
-] [28] [29] [30]
+] [29] [30] [31]
 Underfull \hbox (badness 1092) in paragraph at lines 253--253
 []|\OT1/ntxtlf/m/it/10 Dropdown \OT1/ntxtlf/m/n/10 (daf-tar pil-i-
  []
@@ -1881,29 +1925,29 @@ Underfull \hbox (badness 7081) in paragraph at lines 254--254
 []|\OT1/ntxtlf/m/n/10 Teks pan-jang (multi-
  []
 
-[31] [32] [33] [34] [35]
+[32] [33] [34] [35] [36]
 Underfull \hbox (badness 10000) in paragraph at lines 500--501
 []|\OT1/lmtt/m/n/10.95 <td
  []
 
-[36] [37] [38] [39] [40] [41] [42] [43]
+[37] [38] [39] [40] [41] [42] [43] [44]
 Underfull \hbox (badness 10000) in paragraph at lines 875--875
 []\OT1/ntxtlf/b/n/10.95 Jalur aset yang di-hara-p-kan: $\OT1/lmtt/m/n/10.95 assets / images / minggu-[]04 /
  []
 
-[44] [45]) (chapters/minggu-05.tex [46]
+[45] [46]) (chapters/minggu-05.tex [47]
 Bab 5.
-[47
+[48
 
-] [48]
+] [49]
 LaTeX Font Info:    Font shape `OT1/lmtt/bx/n' in size <12> not available
 (Font)              Font shape `OT1/lmtt/b/n' tried instead on input line 149.
- [49] [50] [51] [52] [53] [54]
+ [50] [51] [52] [53] [54] [55]
 Overfull \hbox (1.83528pt too wide) in paragraph at lines 472--473
 []\OT1/ntxtlf/m/n/10.95 Folder \OT1/lmtt/m/n/10.95 latihan-css \OT1/ntxtlf/m/n/10.95 berisi min-i-mal 6 file: $\OT1/lmtt/m/n/10.95 index . html$\OT1/ntxtlf/m/n/10.95 , $\OT1/lmtt/m/n/10.95 style . css$\OT1/ntxtlf/m/n/10.95 , $\OT1/lmtt/m/n/10.95 box . html$\OT1/ntxtlf/m/n/10.95 , $\OT1/lmtt/m/n/10.95 box . css$\OT1/ntxtlf/m/n/10.95 , $\OT1/lmtt/m/n/10.95 tipografi .
  []
 
-[55]
+[56]
 Underfull \hbox (badness 8189) in paragraph at lines 499--499
 []|\OT1/ntxtlf/m/n/10.95 CSS tidak berpen-
  []
@@ -1938,7 +1982,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 505--505
 []|\OT1/ntxtlf/m/it/10.95 Margin\OT1/ntxtlf/m/n/10.95 /\OT1/ntxtlf/m/it/10.95 padding \OT1/ntxtlf/m/n/10.95 belum
  []
 
-) (chapters/minggu-06.tex [56]
+) (chapters/minggu-06.tex [57]
 Bab 6.
 
 Underfull \hbox (badness 10000) in paragraph at lines 73--74
@@ -1948,9 +1992,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[57
+[58
 
-] [58] [59] [60] [61] [62] [63] [64] [65] [66] [67]
+] [59] [60] [61] [62] [63] [64] [65] [66] [67] [68]
 Underfull \hbox (badness 10000) in paragraph at lines 595--596
 []|\OT1/ntxtlf/m/n/10.95 Pastikan prop-erti \OT1/lmtt/m/n/10.95 display:
  []
@@ -2005,21 +2049,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 605--606
 \OT1/lmtt/m/n/10.95 padding: 0; box-sizing:
  []
 
-) (chapters/minggu-07.tex [68]
+) (chapters/minggu-07.tex [69]
 Bab 7.
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 []\OT1/ntxtlf/m/n/10.95 mempraktikkan prop-erti \OT1/ntxtlf/m/it/10.95 grid \OT1/ntxtlf/m/n/10.95 (\OT1/lmtt/m/n/10.95 grid-template-columns\OT1/ntxtlf/m/n/10.95 , \OT1/lmtt/m/n/10.95 grid-template-rows\OT1/ntxtlf/m/n/10.95 ,
  []
 
-[69
+[70
 
-] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80]
+] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80] [81]
 Overfull \hbox (2.55809pt too wide) in paragraph at lines 657--658
 []\OT1/ntxtlf/m/n/10.95 Folder \OT1/lmtt/m/n/10.95 latihan-grid \OT1/ntxtlf/m/n/10.95 berisi file: $\OT1/lmtt/m/n/10.95 index . html$\OT1/ntxtlf/m/n/10.95 , $\OT1/lmtt/m/n/10.95 style . css$\OT1/ntxtlf/m/n/10.95 , $\OT1/lmtt/m/n/10.95 layout . html$\OT1/ntxtlf/m/n/10.95 , $\OT1/lmtt/m/n/10.95 layout . css$\OT1/ntxtlf/m/n/10.95 , $\OT1/lmtt/m/n/10.95 responsive .
  []
 
-[81]
+[82]
 Underfull \hbox (badness 10000) in paragraph at lines 691--692
 []|\OT1/ntxtlf/m/n/10.95 Pastikan prop-erti \OT1/lmtt/m/n/10.95 display:
  []
@@ -2079,14 +2123,14 @@ Underfull \hbox (badness 4193) in paragraph at lines 701--702
 []|\OT1/ntxtlf/m/n/10.95 Periksa jum-lah kolom yang
  []
 
-[82]) (chapters/minggu-08.tex [83]
+[83]) (chapters/minggu-08.tex [84]
 Bab 8.
-[84
+[85
 
-] [85] [86]
+] [86] [87]
 LaTeX Font Info:    Font shape `OT1/lmtt/bx/n' in size <14.4> not available
 (Font)              Font shape `OT1/lmtt/b/n' tried instead on input line 184.
- [87] [88] [89] [90]
+ [88] [89] [90] [91]
 Underfull \hbox (badness 3260) in paragraph at lines 459--459
 []|\OT1/lmtt/m/n/10.95 git \OT1/ntxtlf/m/n/10.95 bukan per-in-tah
  []
@@ -2156,18 +2200,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 473--474
 []|\OT1/ntxtlf/m/n/10.95 Jalankan \OT1/lmtt/m/n/10.95 git branch -M
  []
 
-[91]) (chapters/minggu-09.tex [92]
+[92]) (chapters/minggu-09.tex [93]
 Bab 9.
 LaTeX Font Info:    Font shape `OT1/lmtt/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/lmtt/b/n' tried instead on input line 51.
-[93
+[94
 
-] [94] [95]
+] [95] [96]
 Underfull \hbox (badness 1895) in paragraph at lines 205--206
 []\OT1/ntxtlf/m/n/10.95 Setelah \OT1/ntxtlf/m/it/10.95 merge\OT1/ntxtlf/m/n/10.95 , branch \OT1/lmtt/m/n/10.95 fitur-navbar \OT1/ntxtlf/m/n/10.95 bisa di-ha-pus jika tidak diper-lukan: \OT1/lmtt/m/n/10.95 git branch -d
  []
 
-[96] [97] [98] [99] [100]
+[97] [98] [99] [100] [101]
 Underfull \hbox (badness 10000) in paragraph at lines 482--482
 []|\OT1/ntxtlf/m/n/10.95 Ada pe-ruba-han yang
  []
@@ -2195,56 +2239,56 @@ Underfull \hbox (badness 1609) in paragraph at lines 494--495
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[101]) (chapters/minggu-10.tex [102]
+[102]) (chapters/minggu-10.tex [103]
 Bab 10.
-[103
+[104
 
-] [104] [105] [106]
+] [105] [106] [107]
 Underfull \hbox (badness 1122) in paragraph at lines 225--225
 []\OT1/ntxtlf/b/n/10.95 Keterangan: \OT1/ntxtlf/m/n/10.95 Con-sole menampilkan out-put pe-mang-gi-lan fungsi \OT1/lmtt/m/n/10.95 sapa()\OT1/ntxtlf/m/n/10.95 , \OT1/lmtt/m/n/10.95 hitungLuas()\OT1/ntxtlf/m/n/10.95 , dan
  []
 
-[107] [108] [109] [110] [111] [112]) (chapters/minggu-11.tex [113]
+[108] [109] [110] [111] [112] [113]) (chapters/minggu-11.tex [114]
 Bab 11.
-[114
+[115
 
-] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126]) (chapters/minggu-12.tex [127]
+] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127]) (chapters/minggu-12.tex [128]
 Bab 12.
-[128
+[129
 
-] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139]) (chapters/minggu-13.tex [140]
+] [130] [131] [132] [133] [134] [135] [136] [137] [138] [139] [140]) (chapters/minggu-13.tex [141]
 Bab 13.
-[141
+[142
 
-] [142] [143] [144] [145]
+] [143] [144] [145] [146]
 Underfull \hbox (badness 2903) in paragraph at lines 271--272
 []\OT1/ntxtlf/m/n/10.95 Perbandingan den-gan JavaScript bi-asa: \OT1/lmtt/m/n/10.95 "<h2>Nama: " + nama + "</h2>" \OT1/ntxtlf/m/n/10.95 vs \OT1/lmtt/m/n/10.95 <h2>Nama:
  []
 
-[146] [147] [148] [149] [150] [151] [152] [153] [154]) (chapters/minggu-14.tex [155]
+[147] [148] [149] [150] [151] [152] [153] [154] [155]) (chapters/minggu-14.tex [156]
 Bab 14.
-[156
+[157
 
-] [157]
+] [158]
 Overfull \hbox (10.54068pt too wide) in paragraph at lines 151--152
 []\OT1/ntxtlf/m/n/10.95 Untuk se-tiap heuris-tik, diskusikan se-cara berkelom-pok dan catat di \OT1/lmtt/m/n/10.95 research/heuristic-evaluation.md\OT1/ntxtlf/m/n/10.95 .
  []
 
-[158]
+[159]
 Underfull \hbox (badness 10000) in paragraph at lines 173--173
 []\OT1/ntxtlf/b/n/10.95 Jalur aset yang di-hara-p-kan: $\OT1/lmtt/m/n/10.95 assets / images / minggu-[]14 /
  []
 
-[159] [160] [161] [162]
+[160] [161] [162] [163]
 Overfull \hbox (11.68915pt too wide) in paragraph at lines 367--368
 []\OT1/ntxtlf/m/n/10.95 File \OT1/lmtt/m/n/10.95 index.html \OT1/ntxtlf/m/n/10.95 su-dah mu-lai disi-ap-kan (kosong atau \OT1/ntxtlf/m/it/10.95 skele-ton \OT1/ntxtlf/m/n/10.95 HTML su-dah ada di branch \OT1/lmtt/m/n/10.95 final-project\OT1/ntxtlf/m/n/10.95 ). 
  []
 
-) (chapters/minggu-15.tex [163]
+) (chapters/minggu-15.tex [164]
 Bab 15.
-[164
+[165
 
-] [165] [166] [167] [168] [169] [170]
+] [166] [167] [168] [169] [170] [171]
 Underfull \hbox (badness 5756) in paragraph at lines 390--391
 []|\OT1/ntxtlf/m/n/10 Cek path file di HTML --- gu-nakan \OT1/ntxtlf/m/it/10 rel-a-tive
  []
@@ -2254,14 +2298,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 390--391
 \OT1/ntxtlf/m/it/10 path \OT1/ntxtlf/m/n/10 (\OT1/lmtt/m/n/10 css/style.css\OT1/ntxtlf/m/n/10 ), bukan \OT1/ntxtlf/m/it/10 ab-so-lute path
  []
 
-[171] [172] [173] [174]
+[172] [173] [174] [175]
 Overfull \hbox (9.2113pt too wide) in paragraph at lines 529--530
 []\OT1/ntxtlf/m/n/10.95 MDN: HTML Se-man-tics: [][]$\OT1/lmtt/m/n/10.95 https : / / developer . mozilla . org / en-[]US / docs / Guide / HTML / Sections _
  []
 
-) (chapters/minggu-16.tex [175]
+) (chapters/minggu-16.tex [176]
 Bab 16.
-[176
+[177
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 92.
@@ -2270,7 +2314,7 @@ File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 92.
- [177{C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] [178] [179]
+ [178{C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/tex-gyre/q-ts1.enc}] [179] [180]
 Underfull \hbox (badness 1189) in paragraph at lines 213--214
 []|\OT1/ntxtlf/m/n/10 Apa be-danya \OT1/lmtt/m/n/10 flex-direction:
  []
@@ -2280,12 +2324,12 @@ Underfull \hbox (badness 1490) in paragraph at lines 214--214
 []|\OT1/ntxtlf/m/n/10 Bisakah kamu men-je-laskan alur
  []
 
-[180]
+[181]
 Overfull \hbox (9.83617pt too wide) in paragraph at lines 235--236
 []\OT1/ntxtlf/m/n/10.95 Setelah se-mua kelom-pok se-le-sai pre-sen-tasi, se-tiap ma-ha-siswa mengisi re-fleksi diri. Buka file \OT1/lmtt/m/n/10.95 reflection.md
  []
 
-[181] [182] [183] [184]) [185] (main.aux)
+[182] [183] [184] [185]) [186] (main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026/02/24>
@@ -2304,17 +2348,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51440 strings out of 467441
- 975699 string characters out of 5407592
- 2289695 words of memory out of 5000000
- 75861 multiletter control sequences out of 15000+600000
+ 51479 strings out of 467441
+ 977662 string characters out of 5407592
+ 2290030 words of memory out of 5000000
+ 75896 multiletter control sequences out of 15000+600000
  662914 words of font info for 122 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  107i,12n,136p,764b,2396s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/tex-gyre/qtmb.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmb.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmbi.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmr.pfb><C:/Users/barof/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (194 pages, 1661583 bytes).
+Output written on main.pdf (195 pages, 1837559 bytes).
 PDF statistics:
- 6639 PDF objects out of 7423 (max. 8388607)
- 4080 named destinations out of 4296 (max. 500000)
- 1559 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6663 PDF objects out of 7423 (max. 8388607)
+ 4084 named destinations out of 4296 (max. 500000)
+ 1579 words of extra memory for PDF output out of 10000 (max. 10000000)
 
